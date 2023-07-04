@@ -1,0 +1,33 @@
+{
+    "users" : [
+        {
+            "id": "unique-1",
+            "name": "Beyza Açıkgöz",
+            "salary": "500000",
+            "department": "Yazılım"
+          },
+          {
+            "id": "unique-2",
+            "name": "Ayça Açıkgöz",           
+            "department": "Görsel Sanatlar"
+          },
+          {
+            "id":"unique-3",
+            "name": "Esma Açıkgöz",
+            "salary": "8000",
+            "department": "Öğrenci"
+          },
+          {
+            "id":"unique-4",
+            "name":"Esef Kılıçdoğan",
+            "department":"Proses",
+            "salary":"56803"
+          },
+          {
+            "id":"unique-5",
+            "name":"Muharrem Süslü",
+            "department":"Gömülü Sistemler",
+            "salary":"76817"
+          }
+    ]
+}
